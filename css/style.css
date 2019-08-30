@@ -22,3 +22,14 @@
     color: grey;
     text-align: justify
 }
+
+.ben_title{
+    background: #9e23ff;
+    text-align: center;
+    height: 200px;
+}
+
+.ben_main{
+    padding-left: 2%;
+    padding-right: 2%;
+}
